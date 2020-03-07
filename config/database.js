@@ -6,4 +6,10 @@ module.exports = new Sequelize('riliv-test', 'postgres', 'admin', {
 })
 
 
+// local 
+// module.exports = new Sequelize('riliv-test', 'postgres', 'admin', {
+//   host: 'localhost',
+//   dialect: 'postgres'
+// })
+
  
